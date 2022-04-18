@@ -63,7 +63,7 @@ Awards and Research Grants
   * "Is bright galaxy formation different in the epoch of reionization? Confirmation of the brightest candidates at redshift z > 8", 4 primary orbits, with research grant of 27.8K USD
 
 
-Service and leadership
+Community Service
 ======
 * STScI Galaxy Journal Club Organizer.
 * Subaru Telescope, external reviewer.
