@@ -38,7 +38,31 @@ Work experience
   * Duties included: Structural analyese of galaxies in the Hubble Frontier Fields
   * Supervisor: Prof. Tommaso Treu and Dr. Louis Abramson
 
-    
+
+Fellowship Awards
+======
+* 2014 - 2017: Japan Society for the Promotion of Science (JSPS), DC1 Fellow
+  * Annual research grant 900K JPY
+
+* 2014 - 2017: DIARE Doctoral Fellow, Tohoku University
+  * Annual research grant 600K JPY
+
+* 2012 - 2014: DIARE Master Fellow, Tohoku University
+  * Annual research grant 100K JPY
+
+
+Awards and Research Grants
+======
+* 2020: The STScI Achievement Award
+  * JWST Masterclass Support Team
+
+* 2019: HST Cycle27 AR program
+  * "Constraining the QSO Luminosity Function at z~8 by using the HST Legacy Survey Data", with research grant of 86.7K USD
+
+* 2019: HST Cycle26 Mid-cycle program
+  * "Is bright galaxy formation different in the epoch of reionization? Confirmation of the brightest candidates at redshift z > 8", 4 primary orbits, with research grant of 27.8K USD
+
+
 Service and leadership
 ======
 * STScI Galaxy Journal Club Organizer.
