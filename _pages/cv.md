@@ -19,8 +19,7 @@ Education
 
 Work experience
 ======
-* December 2021 -: Staff Scientist
-  * Caltech/IPAC
+* December 2021 - : Staff Scientist at Caltech/IPAC
   * Primary roles
     * Grism-Prism Data Processing for Roman Space Telescope
 
