@@ -19,6 +19,11 @@ Education
 
 Work experience
 ======
+* December 2021 -: Staff Scientist
+  * Caltech/IPAC
+  * Primary roles
+    * Grism-Prism Data Processing for Roman Space Telescope
+
 * June 2019 - December 2021: STScI Prize Fellow
   * Space Telescope Science Institute, Baltimore.
   * Duties included: 
