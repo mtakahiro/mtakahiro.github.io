@@ -40,7 +40,8 @@ Work experience
 
 * 2015 - 2017: Visiting Graduate Researcher
   * University of California, Los Angeles.
-  * Duties included: Structural analyese of galaxies in the Hubble Frontier Fields
+  * Duties included: 
+    * Structural analyese of galaxies in the Hubble Frontier Fields
   * Supervisor: Prof. Tommaso Treu and Dr. Louis Abramson
 
 
