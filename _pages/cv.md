@@ -68,6 +68,9 @@ Awards and Research Grants
 * 2019: HST Cycle26 Mid-cycle program
   * "Is bright galaxy formation different in the epoch of reionization? Confirmation of the brightest candidates at redshift z > 8", 4 primary orbits, with research grant of 27.8K USD
 
+* 2019: HST Cycle25 program
+  * "The brightest galaxies in the first 700 Myr: Building Hubble's legacy of large area IR imaging for JWST and beyond", 500 pure-parallel orbits
+
 
 Community Service
 ======
