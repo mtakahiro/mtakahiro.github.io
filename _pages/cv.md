@@ -26,23 +26,23 @@ Work experience
 
 * June 2019 - December 2021: STScI Prize Fellow
   * Space Telescope Science Institute, Baltimore.
+    * Supervisor: Dr. Stephanie LaMassa
   * Duties included: 
     * 50% functional work for JWST/NIRISS
     * 50% independent research
-  * Supervisor: Dr. Stephanie LaMassa
 
 * August 2017 - June 2019: Postdoctoral Scholar
   * Space Telescope Science Institute, Baltimore.
+    * Supervisor: Dr. Massimo Stiavelli
   * Duties included: 
     * Formation history of massive dead galaxies at z~2 with HST grism data
     * Search for bright galaxy candidates in the cosmic reionization era
-  * Supervisor: Dr. Massimo Stiavelli
 
 * 2015 - 2017: Visiting Graduate Researcher
   * University of California, Los Angeles.
+    * Supervisor: Prof. Tommaso Treu and Dr. Louis Abramson
   * Duties included: 
     * Structural analyese of galaxies in the Hubble Frontier Fields
-  * Supervisor: Prof. Tommaso Treu and Dr. Louis Abramson
 
 
 Fellowship Awards
