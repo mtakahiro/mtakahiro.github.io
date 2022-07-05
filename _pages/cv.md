@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Astronomy, Tohoku University, 2012
-* M.S. in Astronomy, Tohoku University, 2014
-  * Supervisor: Prof. Takashi Ichikawa
 * Ph.D in Astronomy, Tohoku University, 2017
   * Supervisor: Prof. Takashi Ichikawa and Prof. Masayuki Akiyama
+* M.S. in Astronomy, Tohoku University, 2014
+  * Supervisor: Prof. Takashi Ichikawa
+* B.S. in Astronomy, Tohoku University, 2012
 
 Work experience
 ======
