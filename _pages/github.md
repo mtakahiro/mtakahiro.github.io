@@ -7,14 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-* gsf
-  * Grism SED Fitting code:
-  * <a href='https://github.com/mtakahiro/gsf'>Repository</a>
+* <a href='https://github.com/mtakahiro/gsf'>gsf</a>
+  * Grism SED Fitting code 
 
-* bbpn
-  * Bye Bye Pink Noise (BBPN):
-  * <a href='https://github.com/mtakahiro/bbpn'>Repository</a>
+* <a href='https://github.com/mtakahiro/bbpn'>bbpn</a>
+  * Bye Bye Pink Noise (BBPN)
 
-* tweakseg
-  * Segmentation map Tweaking code:
-  * <a href='https://github.com/mtakahiro/tweakseg'>Repository</a>
+* <a href='https://github.com/mtakahiro/tweakseg'>tweakseg</a>
+  * Segmentation map Tweaking code
