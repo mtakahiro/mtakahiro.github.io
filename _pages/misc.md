@@ -6,7 +6,7 @@ author_profile: true
 ---
 Anything else? 
 
-Yes! I'm a big bluegrass fun!
+**Yes! I'm a big bluegrass fan!**
 
 [![Watch the video](https://img.youtube.com/vi/K7ErkjTH0bk/default.jpg)](https://youtu.be/K7ErkjTH0bk)
 
