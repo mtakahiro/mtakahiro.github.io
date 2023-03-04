@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* December 2021 - : Staff Scientist 
+* December 2021 - : Assistant Scientist 
   * California Institute of Technology/Infrared Processing and Analysis Center (IPAC)
   * Primary roles
     * Grism-Prism Data Processing for Roman Space Telescope
