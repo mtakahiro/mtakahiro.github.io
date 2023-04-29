@@ -8,8 +8,9 @@ author_profile: true
 {% include base_path %}
 
 * The discovery of the most distant proto-cluster from JWST ERS program
-  * <a href='https://www.nasa.gov/feature/goddard/2023/webb-reveals-early-universe-prequel-to-huge-galaxy-cluster'>NASA press release on the discovery (April 24, 2024)</a>
-  * <a href='https://www.caltech.edu/about/news/the-young-cluster-of-galaxies-at-the-edge-of-the-universe'>Caltech press release on the same discovery (April 24, 2024)</a>
+  * <a href='https://www.nasa.gov/feature/goddard/2023/webb-reveals-early-universe-prequel-to-huge-galaxy-cluster'>NASA press release on the discovery (April 24, 2023)</a>
+  * <a href='https://www.caltech.edu/about/news/the-young-cluster-of-galaxies-at-the-edge-of-the-universe'>Caltech press release on the same discovery (April 24, 2023)</a>
+  * <a href='https://www.nytimes.com/2023/04/29/science/astronomy-webb-galaxies.html?smid=nytcore-ios-share&referringSource=articleShare'>NY Times writes about the discovery (April 29, 2023)</a>
   * <a href='https://glass.astro.ucla.edu/ers/'>The link to the GLASS ERS team</a>
 
 * <a href='https://archive.stsci.edu/hlsp/superborg'>The Superborg project</a>
