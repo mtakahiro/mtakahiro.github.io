@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+* <a href='https://webbtelescope.org/about/people-behind-webb'>"The People Behind Webb"</a>
+
 * <a href='https://github.com/mtakahiro/mtakahiro.github.io/blob/master/files/Morishita_2023_src_dropouts.txt'>Link to the ascii table</a> for galaxy properties reported in our recent paper:
   * <a href='https://ui.adsabs.harvard.edu/abs/2024ApJ...963....9M/abstract'>Enhanced Subkiloparsec-scale Star Formation: Results from a JWST Size Analysis of 341 Galaxies at 5 < z < 14 (Morishita et al., 2024, ApJ963:21)</a>
 
