@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+* <a href='https://www.nasa.gov/missions/roman-space-telescope/how-nasas-roman-space-telescope-will-illuminate-cosmic-dawn/'>"How NASA’s Roman Space Telescope Will Illuminate Cosmic Dawn"</a>
+
 * <a href='https://webbtelescope.org/about/people-behind-webb'>"The People Behind Webb"</a>
 
 * <a href='https://github.com/mtakahiro/mtakahiro.github.io/blob/master/files/Morishita_2023_src_dropouts.txt'>Link to the ascii table</a> for galaxy properties reported in our recent paper:
