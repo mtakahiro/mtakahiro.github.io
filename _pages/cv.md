@@ -11,15 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Astronomy, Tohoku University, 2017
+* Ph.D in Astronomy, Tohoku University, June 2017
   * Supervisor: Prof. Takashi Ichikawa and Prof. Masayuki Akiyama
-* M.S. in Astronomy, Tohoku University, 2014
+* M.S. in Astronomy, Tohoku University, March 2014
   * Supervisor: Prof. Takashi Ichikawa
-* B.S. in Astronomy, Tohoku University, 2012
+* B.S. in Astronomy, Tohoku University, March 2012
 
 Work experience
 ======
-* December 2021 - : Assistant Scientist 
+* February 2026 -: Associate Professor
+  * Astronomical Institute, Tohoku University
+
+* December 2021 - January 2026: Assistant Scientist 
   * California Institute of Technology/Infrared Processing and Analysis Center (IPAC)
   * Primary roles
     * Grism-Prism Data Processing for Roman Space Telescope

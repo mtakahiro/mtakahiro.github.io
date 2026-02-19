@@ -83,11 +83,11 @@ author:
   name             : "Takahiro Morishita (he/him)"
   avatar           : "profile.jpeg"
   bio              : #"Your biography for the left-hand sidebar"
-  location         : "Pasadena, CA"
+  location         : "Sendai, Japan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=8tJgPOwAAAAJ&hl=en"
-  email            : "takahiro@ipac.caltech.edu"
+  email            : "morishita-at-astr.tohoku.ac.jp"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
