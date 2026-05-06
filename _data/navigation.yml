@@ -6,6 +6,9 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Publications"
+    url: /publications/    
+
   - title: "GitHub Code"
     url: /github/    
 
@@ -14,12 +17,12 @@ main:
 
   - title: "日本語"
     url: /ja/
+
   - title: "略歴"
     url: /ja/cv/
+
   - title: "研究"
     url: /ja/research/
-  - title: "論文"
-    url: /ja/publications/
 
 #  - title: "Teaching"
 #    url: /teaching/    

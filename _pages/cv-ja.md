@@ -75,4 +75,3 @@ author_profile: true
 - Japan JWST Cycle 1 Proposal Workshop SOC & Instructor
 - Subaru / TMT Science Book 2020 共著者
 - Journal Referee: ApJ, MNRAS, AA, Nature Astronomy
-- 東北大学 大学院生委員会 委員長

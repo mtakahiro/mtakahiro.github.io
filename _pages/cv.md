@@ -88,4 +88,3 @@ Community Service
 * Japan JWST Cycle 1 Proposal Workshop SOC & Instructor. 
 * Subaru / TMT Science Book 2020, contributed as a coauthor. 
 * Journal Referee, ApJ, MNRAS, AA, Nature Astronomy.
-* Graduate Student Committee Chair, Tohoku University
