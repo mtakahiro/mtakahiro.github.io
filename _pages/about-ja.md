@@ -18,5 +18,5 @@ redirect_from:
 
 ## 論文
 
-- [筆頭著者論文リスト](https://ui.adsabs.harvard.edu/public-libraries/I5grHD1hSdGoypKZ2Tv4CQ)
-- [共著論文リスト](https://ui.adsabs.harvard.edu/public-libraries/JP5k9T0xT9Sp-4nXoh6Jtg)
+- [筆頭著者論文リスト](https://ui.adsabs.harvard.edu/user/libraries/bh6bqUjWRuueUg_mlM7Tnw)
+- [共著論文リスト](https://ui.adsabs.harvard.edu/user/libraries/kKIdRivTREG-CRk8GkYVyQ)
