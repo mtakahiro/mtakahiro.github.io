@@ -8,10 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Publication
------------
-
-<a href='https://ui.adsabs.harvard.edu/public-libraries/bh6bqUjWRuueUg_mlM7Tnw'>List of First Author Papers</a>
-
-<a href='https://ui.adsabs.harvard.edu/public-libraries/kKIdRivTREG-CRk8GkYVyQ'>List of Co-author Papers</a>
-
+Hi, I’m Takahiro Morishita, an observational astronomer and Associate Professor at the Astronomical Institute, Tohoku University.
