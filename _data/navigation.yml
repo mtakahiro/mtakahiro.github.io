@@ -12,6 +12,15 @@ main:
   - title: "Misc."
     url: /misc/    
 
+  - title: "日本語"
+    url: /ja/
+  - title: "略歴"
+    url: /ja/cv/
+  - title: "研究"
+    url: /ja/research/
+  - title: "論文"
+    url: /ja/publications/
+
 #  - title: "Teaching"
 #    url: /teaching/    
     

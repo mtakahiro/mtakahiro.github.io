@@ -1,0 +1,11 @@
+# Add these entries to _data/navigation.yml under `main:`
+# This keeps the existing English pages and adds Japanese pages.
+
+  - title: "日本語"
+    url: /ja/
+  - title: "略歴"
+    url: /ja/cv/
+  - title: "研究"
+    url: /ja/research/
+  - title: "論文"
+    url: /ja/publications/
