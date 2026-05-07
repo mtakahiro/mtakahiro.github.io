@@ -62,9 +62,15 @@ Fellowship Awards
 
 Awards and Research Grants
 ======
+* 2026：JWST Cycle 5 GO program
+  * "LUCID: Unveiling Galaxies Below the 1% Solar Metallicity Floor through Cosmic Telescopes" [“LUCID”](https://www.stsci.edu/jwst-program-info/program/?program=10341)
+
 * 2023: <a href='http://www.senshu.phys.tohoku.ac.jp/prize.html#p19'>The 19th Morita Memorial Award by Tohoku University</a>
   * <a href='https://youtu.be/eHYSDWYjMgk?si=0sKP9vLbj_PLKygb'>Ceremony talk (Japanese)</a>
 
+* 2023年：JWST Cycle 2 GO program
+  * “A NIRCam Pure-Parallel Imaging Survey of Galaxies Across the Universe” [BEACON-JWST](https://beacon-jwst.github.io)
+  
 * 2020: The STScI Achievement Award
   * JWST Masterclass Support Team
 

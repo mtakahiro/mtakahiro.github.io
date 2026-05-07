@@ -27,17 +27,17 @@ author_profile: true
   - Space Telescope Science Institute, Baltimore
   - 指導教員：Dr. Stephanie LaMassa
   - 業務内容：
-    - 50%：JWST/NIRISS に関する機能的業務
-    - 50%：独立研究
+    - 50%：JWST/NIRISS に関する業務
+    - 50%：独立フェローとしての研究
 - 2017年8月–2019年6月：Postdoctoral Scholar
   - Space Telescope Science Institute, Baltimore
   - 指導教員：Dr. Massimo Stiavelli
   - 研究内容：
-    - HST グリズムデータを用いた z~2 の大質量クエンチ銀河の形成史
+    - HST グリズムデータを用いた z~2 の大質量星形成終焉銀河の形成史
     - 宇宙再電離期における明るい銀河候補の探索
 - 2015年–2017年：Visiting Graduate Researcher
   - University of California, Los Angeles
-  - 指導教員：Prof. Tommaso Treu、Dr. Louis Abramson
+  - 指導教員：Prof. Tommaso Treu, Dr. Louis Abramson
   - 研究内容：Hubble Frontier Fields銀河の構造解析
 
 # フェローシップ
@@ -51,8 +51,15 @@ author_profile: true
 
 # 受賞・研究費
 
-- 2023年：[第19回 東北大学 森田記念賞](https://www.senshu.phys.tohoku.ac.jp/)
-  - [記念講演（日本語）](https://youtu.be/)
+- 2026年：JWST Cycle 5 GO program
+  - "LUCID: Unveiling Galaxies Below the 1% Solar Metallicity Floor through Cosmic Telescopes" [“LUCID”](https://www.stsci.edu/jwst-program-info/program/?program=10341)
+- 2026年：国際共同研究加速基金（帰国発展研究）採択
+  - 「重力レンズ効果と最先端観測による宇宙初代銀河の探査と形成過程の解明」
+- 2023年：[第19回 東北大学 森田記念賞](http://www.senshu.phys.tohoku.ac.jp/prize.html#p19)
+  - [記念講演（日本語）](https://youtu.be/eHYSDWYjMgk?si=0sKP9vLbj_PLKygb)
+- 2023年：JWST Cycle 2 GO program
+  - “A NIRCam Pure-Parallel Imaging Survey of Galaxies Across the Universe” [BEACON-JWST](https://beacon-jwst.github.io)
+  - 研究費：490K USD
 - 2020年：STScI Achievement Award
   - JWST Masterclass Support Team
 - 2019年：HST Cycle 27 AR program

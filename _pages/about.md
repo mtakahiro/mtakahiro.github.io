@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Takahiro Morishita, an observational astronomer and Associate Professor at the Astronomical Institute, Tohoku University.
+Hi, I’m Takahiro Morishita, an observational astronomer and Associate Professor at <a href='https://www.astr.tohoku.ac.jp/en/'>the Astronomical Institute, Tohoku University.</a>
