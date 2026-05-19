@@ -74,11 +74,13 @@ author_profile: true
 
 # コミュニティ活動
 
-- STScI Galaxy Journal Club Organizer
+- [ニュートン別冊　新・ゼロからわかる宇宙論（2025年7月22日発売）](https://www.newtonpress.co.jp/separate/back_astronomy/mook_250722_3.html) 監修 
+- Journal Referee: ApJ, MNRAS, AA, Nature Astronomy
+- JWST Proposal panelist (Cycles 2,3)
 - Subaru Telescope 外部レビュアー
 - NASA FINESST20 ASTRO レビュアー
 - STScI workshop “Multi-object Spectroscopy for Statistical Measures of Galaxy Evolution” SOC member
 - STScI Fellowship Selection Committee
 - Japan JWST Cycle 1 Proposal Workshop SOC & Instructor
 - Subaru / TMT Science Book 2020 共著者
-- Journal Referee: ApJ, MNRAS, AA, Nature Astronomy
+- STScI Galaxy Journal Club Organizer
